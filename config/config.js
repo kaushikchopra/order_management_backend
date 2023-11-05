@@ -1,0 +1,1 @@
+export const clientURL = "http://localhost:8070" // using server url for postman. Change it when react is hosted
