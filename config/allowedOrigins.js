@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://order-managing-app.netlify.app/',
+    'https://order-managing-app.netlify.app',
     'https://order-management-mb7d.onrender.com',
 ];
 
