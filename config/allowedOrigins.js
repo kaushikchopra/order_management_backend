@@ -1,6 +1,6 @@
 const allowedOrigins = [
-    'http://localhost:3000',
-    'http://localhost:8070',
+    'https://order-managing-app.netlify.app/',
+    'https://order-management-mb7d.onrender.com',
 ];
 
 export default allowedOrigins;

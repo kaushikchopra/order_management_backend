@@ -1,1 +1,1 @@
-export const clientURL = "http://localhost:8070" // using server url for postman. Change it when react is hosted
+export const clientURL = "https://order-managing-app.netlify.app/" // using server url for postman. Change it when react is hosted
